@@ -1,0 +1,27 @@
+{
+  "name": "akyuu-adapter-memcached-binary",
+  "version": "0.1.0",
+  "description": "Memcached adapter for Akyuu.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-adapter-memcached-binary.git"
+  },
+  "keywords": [
+    "memcached",
+    "binary protocol",
+    "akyuu"
+  ],
+  "author": "DuanPengfei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-adapter-memcached-binary/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-adapter-memcached-binary#readme",
+  "dependencies": {
+    "memjs": "^1.0.0-rc.1"
+  }
+}
